@@ -53,7 +53,7 @@ nav a:hover{
 
 #About,#Contact,#Education, #Experience{
     display: block;
-    margin:4% 2% 4% 2%;
+    margin:5% 4% 5% 4%;
     border: solid .5px rgba(128, 180, 185, 0.75); 
         padding: 1%;
         background-color: rgba(255, 255, 255,0.7);
@@ -100,7 +100,7 @@ ul{
     list-style: circle;
         
 }
-@media all and (min-width:500px){
+@media all and (min-width:600px){
     #About,#Contact,#Education, #Experience{
         display: inline-block;
         width: 45%;
